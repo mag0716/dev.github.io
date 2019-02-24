@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.github.mag0716.appbundlessample",
+    "sha256_cert_fingerprints":
+    ["EF:00:16:EF:B6:09:B5:2F:2A:70:6E:2F:89:46:E6:C5:6C:00:16:AA:87:AC:F8:BC:1A:57:1A:83:D3:6B:F2:D2"]
+  }
+}]
